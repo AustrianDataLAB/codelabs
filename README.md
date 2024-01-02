@@ -1,1 +1,1 @@
-Please provide your feedback to any codelab in the Issues Section of this repo
+Please provide your feedback to any codelab in the Issues Section https://github.com/AustrianDataLAB/codelabs/issues or discuss ideas and feedback in the https://github.com/AustrianDataLAB/codelabs/discussions Discussion Section.
